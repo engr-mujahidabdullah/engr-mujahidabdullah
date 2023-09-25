@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5GhLbhs7deKnSaFwGC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/5GhLbhs7deKnSaFwGC/giphy.gif" width="500" hight = "100"/>
 </div>
 
 ### I am Abdullah; MUJAHID ABDULLAH 🛸
