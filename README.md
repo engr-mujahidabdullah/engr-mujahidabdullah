@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/5GhLbhs7deKnSaFwGC/giphy.gif" width="500" hight = "100"/>
+  <img src="https://media.giphy.com/media/hUGRSYs3FEx8R5MG2t/giphy.gif" width="500" hight = "100"/>
 </div>
 
 ### I am Abdullah; MUJAHID ABDULLAH 🛸
@@ -7,8 +7,8 @@
 An embedded systems engineer with a fascination for Electric Vehicles (EVs) and a knack for optimizing their operations. 
 My mission is to merge cutting-edge technology with sustainable transportation to drive the future forward.
 
-### ˚　　　　✦　🪐　　🌘 .𖥔 ݁ ˖ ࣪𖤐.🪐 🌀　 . ✦　　　🛸ִ ࣪ ⭑⋆‧₊˚ 🌎 ˚ ｡𖦹       . ° ✩ . ☄ 🛰️ ⋆ ˚ ｡ ⋆  🚀ִ
-###　🚀　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　☄️ 　　　 ˚🌒　.˚　　　　✦　　　.　　. 　 ˚　.🌀　✦　　.
+˚　✦　🪐　　🌘 . ݁ ˖ ࣪🪐 🌀　 . ✦　　　🛸ִ ࣪ ⭑⋆‧₊˚ 🌎 ˚ ｡𖦹 . ° ✩ .🛰️ ⋆ ˚ ｡ ⋆  🚀ִ
+🚀　　.  ˚𖤐.　　　*　✦　　　.　　.　　𖥔　✦　˚ 　☄️ ˚ 🌒　.˚　　✦　　 ☄ .. 
 
 ## I'm currently dedicated to:
 
