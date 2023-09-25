@@ -1,4 +1,15 @@
-### I am Abdullah; MUJAHID ABDULLAH 🏎
+#### I am Abdullah; MUJAHID ABDULLAH 🛸
+
+An embedded systems engineer with a fascination for Electric Vehicles (EVs) and a knack for optimizing their operations. 
+My mission is to merge cutting-edge technology with sustainable transportation to drive the future forward.
+
+### I'm currently dedicated to:
+
+- **Embedded Systems**: Crafting efficient firmware for EV control systems.
+- **Energy Optimization**: Exploring ways to maximize EV battery life and energy efficiency.
+- **Real-time OS (RTOS)**: Leveraging RTOS for responsive EV operation.
+- **CAN Bus**: Mastering the communication backbone of modern vehicles.
+
 
 <!--
 **engr-mujahidabdullah/engr-mujahidabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
