@@ -21,7 +21,7 @@ My mission is to merge cutting-edge technology with sustainable transportation t
 - **Real-time OS (RTOS)**: Leveraging RTOS for responsive EV operation.
 - **CAN Bus**: Mastering the communication backbone of modern vehicles.
 
-<div id="header" align="center">
+<div id="EC" align="center">
   <img src="https://media.giphy.com/media/MmKbUStG7pnCANGZvk/giphy.gif" width="200" hight = "50"/>
 </div>
 
