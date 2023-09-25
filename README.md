@@ -1,9 +1,14 @@
-#### I am Abdullah; MUJAHID ABDULLAH 🛸
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/5GhLbhs7deKnSaFwGC/giphy.gif" width="100"/>
+</div>
+
+### I am Abdullah; MUJAHID ABDULLAH 🛸
 
 An embedded systems engineer with a fascination for Electric Vehicles (EVs) and a knack for optimizing their operations. 
 My mission is to merge cutting-edge technology with sustainable transportation to drive the future forward.
 
-### I'm currently dedicated to:
+### 🔭
+## I'm currently dedicated to:
 
 - **Embedded Systems**: Crafting efficient firmware for EV control systems.
 - **Energy Optimization**: Exploring ways to maximize EV battery life and energy efficiency.
