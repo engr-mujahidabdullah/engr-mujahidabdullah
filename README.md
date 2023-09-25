@@ -7,12 +7,7 @@
 An embedded systems engineer with a fascination for Electric Vehicles (EVs) and a knack for optimizing their operations. 
 My mission is to merge cutting-edge technology with sustainable transportation to drive the future forward.
 
-<div id="header" align="center">
-🛸  •    °  • .  🌎　°　• . 🌒 •　.°  •  🚀 
-.　•　°  ✯  • .　•　°   • ·  • .  *　°  • . •
-★　*  • .　•　°　 🛰 　°·　.　• 🪐   °  • 
-▁▂▃▄▅▅▆▆▇▇▇▇▆▆▅▅▄▃▁
-</div>
+🛸ִ ࣪ ⭑⋆‧₊˚ 🌎 ˚ ｡𖦹 🌘 .𖥔 ݁ ˖🛰️⋆˚｡⋆🚀ִ ࣪𖤐.🪐 .°✩ .☄
 
 ## I'm currently dedicated to:
 
