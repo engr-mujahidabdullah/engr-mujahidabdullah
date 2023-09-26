@@ -15,7 +15,7 @@ My mission is to merge cutting-edge technology with sustainable transportation t
 - **CAN Bus**: Mastering the communication backbone of modern vehicles.
 - **Data Analytics for EV Performance**: Implemented data analytics tools to analyze EV performance data, enabling proactive        maintenance and improving the overall reliability of the fleet.
 
-### Achivements 
+### Achivements:
 - **Efficient Data Capture**: Designed and implemented a robust data acquisition system that efficiently captures real-time data from the CAN bus of locally assembled electric 2 and 3-wheel vehicles, enabling comprehensive monitoring of critical parameters.
 - **Data Standardization**: Developed a standardized data format and protocol for data acquisition, ensuring compatibility with various vehicle models and simplifying data processing and analysis.
 - **Remote Diagnostics**: Introduced a remote diagnostics feature that allows vehicle operators and technicians to access real-time vehicle data, diagnose issues remotely, and perform proactive maintenance, reducing downtime by 20%.
@@ -28,6 +28,17 @@ My mission is to merge cutting-edge technology with sustainable transportation t
 <div id="EC" align="center">
   <img src="https://media.giphy.com/media/MmKbUStG7pnCANGZvk/giphy.gif" width="200" hight = "50"/>
 </div>
+
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">IoT Cores & Baas:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> </p>
+
+
+<h3 align="left">Tools:</h3>
+<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=engr-mujahidabdullah&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
