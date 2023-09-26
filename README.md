@@ -21,7 +21,8 @@ My mission is to merge cutting-edge technology with sustainable transportation t
 </div>
 
 ### :fire: My Stats :
-([![GitHub Streak](https://github-readme-stats.vercel.app/api?username=engr-mujahidabdullah)](https://github.com/anuraghazra/github-readme-stats))
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=engr-mujahidabdullah&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engr-mujahidabdullah&hide_progress=true)
 <!--
 **engr-mujahidabdullah/engr-mujahidabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
