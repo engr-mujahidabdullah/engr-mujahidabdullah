@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/rtsSdptxmKB6jQC8Hn/giphy.gif" width="300" hight = "50"/>
 </div>
 
+<p align="Center"> <img src="https://komarev.com/ghpvc/?username=engr-mujahidabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="engr-mujahidabdullah" /> </p>
+
 # I am Abdullah; MUJAHID ABDULLAH 🌱
 
 An embedded systems engineer with a fascination for Electric Vehicles (EVs) and a knack for optimizing their operations. 
