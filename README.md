@@ -20,6 +20,8 @@ My mission is to merge cutting-edge technology with sustainable transportation t
   <img src="https://media.giphy.com/media/MmKbUStG7pnCANGZvk/giphy.gif" width="200" hight = "50"/>
 </div>
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=engr-mujahidabdullah&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **engr-mujahidabdullah/engr-mujahidabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
